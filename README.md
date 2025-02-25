@@ -1,4 +1,4 @@
-## olá, eu sou Luis 👋
+## Olá, eu sou Luis 👋
 
 Atualmente sou doutorando pela Unicamp.
 
