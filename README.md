@@ -1,4 +1,8 @@
-## Hi there 👋
+## olá, eu sou Luis 👋
+
+<details>
+<summary>⚡️ Sobre meus códigos</summary>
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSolGS&layout=compact&theme=dark&exclude_repo=ProjetoFinaldeML)
 <!--
