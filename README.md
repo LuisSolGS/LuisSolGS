@@ -11,7 +11,7 @@ Atualmente sou doutorando pela Unicamp.
 </details>
 
 <details>
-<summary> Contatos</summary>
+<summary>:envelope: Contatos</summary>
 <br />
 
 <div>
