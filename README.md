@@ -1,6 +1,6 @@
 ## olá, eu sou Luis 👋
 
-Atualmente sou candidato a Doutor pela Unicamp.
+Atualmente sou doutorando pela Unicamp.
 
 <details>
 <summary>⚡️ Sobre meus códigos</summary>
